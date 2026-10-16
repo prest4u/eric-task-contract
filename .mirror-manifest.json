@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "canonical_repository": "prest4u/eric-agent-skills",
+  "skill": "eric-task-contract",
+  "version": "1.0.1",
+  "source_commit": "1d5e654b1a54ec0d72246f50889ef47ece142475",
+  "managed_files": {
+    ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
+    "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
+    "LICENSE": "5c22156d56eba148899e472b10cf1662e6387d1b7f5aec552d9772fc29579ebe",
+    "README.md": "d4bd22ed6a3ccadace7a362f436a4eb25354df015fff4499f84565f46133f548",
+    "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
+    "SKILL.md": "a48a8dde27eaec109613b66bbcd41f6617a6fc122150eb533fe19211baaefa8c",
+    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "agents/openai.yaml": "75f516d330508bb995c3a6860d45d25abfe1e600526c59e23d644965069f3111"
+  }
+}
